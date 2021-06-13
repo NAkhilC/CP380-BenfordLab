@@ -1,0 +1,17 @@
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\obj\Debug\net5.0\BenfordLab.csprojAssemblyReference.cache
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\obj\Debug\net5.0\BenfordLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\obj\Debug\net5.0\BenfordLab.AssemblyInfoInputs.cache
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\obj\Debug\net5.0\BenfordLab.AssemblyInfo.cs
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\obj\Debug\net5.0\BenfordLab.csproj.CoreCompileInputs.cache
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\bin\Debug\net5.0\world-population-by-country.csv
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\bin\Debug\net5.0\BenfordLab.exe
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\bin\Debug\net5.0\BenfordLab.deps.json
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\bin\Debug\net5.0\BenfordLab.runtimeconfig.json
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\bin\Debug\net5.0\BenfordLab.runtimeconfig.dev.json
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\bin\Debug\net5.0\BenfordLab.dll
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\bin\Debug\net5.0\ref\BenfordLab.dll
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\bin\Debug\net5.0\BenfordLab.pdb
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\obj\Debug\net5.0\BenfordLab.dll
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\obj\Debug\net5.0\ref\BenfordLab.dll
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\obj\Debug\net5.0\BenfordLab.pdb
+E:\SEM 4\Asp NET\june-9\CP380-BenfordLab\BenfordLab\obj\Debug\net5.0\BenfordLab.genruntimeconfig.cache
